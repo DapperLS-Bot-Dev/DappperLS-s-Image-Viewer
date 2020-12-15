@@ -1,0 +1,12 @@
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\bin\Debug\PIC-VIEWER.exe.config
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\bin\Debug\PIC-VIEWER.exe
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\bin\Debug\PIC-VIEWER.pdb
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\bin\Debug\PIC-VIEWER.xml
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC_VIEWER.Resources.resources
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC-VIEWER.vbproj.GenerateResource.cache
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC-VIEWER.vbproj.CoreCompileInputs.cache
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC-VIEWER.exe
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC-VIEWER.xml
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC-VIEWER.pdb
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC_VIEWER.Form1.resources
+C:\Users\Dappe\Desktop\Stuff\Coding And Program Stuff\Visual Studio Stuff\PIC-VIEWER\PIC-VIEWER\obj\Debug\PIC-VIEWER.vbprojAssemblyReference.cache
